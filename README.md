@@ -1,0 +1,2 @@
+# Entity Framework API
+Det här är ett skolprojekt där ett API skapats genom scaffolding och Entity Framework. Projektet är skapat genom Code First och med en SQLite databas. Lagrad information handlar om låtar.
